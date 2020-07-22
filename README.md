@@ -15,7 +15,7 @@ JPQL and native SQL Queries. <br/>
 
 Authentication is done in Authentication service. <br/>
 
-Pom.xml has dependency on jpa , spring security and mysql.Properties file has MYSQL connection information <br />
+Pom.xml has dependency on jpa , spring security and mysql.Properties file has MYSQL connection information and encrypted password <br />
 
 Pricing/Charging
   In all these scenarios..Lazy loading based security checks could be placed for pricing and charging purposes.
